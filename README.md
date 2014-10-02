@@ -1,5 +1,6 @@
 meteor-linkedin
 ===============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/enaros/meteor-linkedin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Forked from https://github.com/yefim/meteor-linkedin.git
 
 A OAuth2 wrapper for the LinkedIn API
